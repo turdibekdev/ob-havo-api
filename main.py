@@ -48,7 +48,7 @@ def soralgan_kun():
 #bugungi_ob_havo()
 
 ## yetti kunlik malumot
-yetti_kunlik_ob_havo()
+#yetti_kunlik_ob_havo()
 
 ## soralgan kun malumoti
 #soralgan_kun()
