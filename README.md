@@ -1,4 +1,4 @@
-# ob-havo-api
+# ob-havo-API
 Turdibek Developer - @turdibekdev 
 
 Ozbekiston Respublikasi barcha viloyatlardagi ob-havo ma'lumoti aniqlaydigan dastur.
